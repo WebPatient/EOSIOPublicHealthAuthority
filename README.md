@@ -1,6 +1,6 @@
 # EOSIO Public Health Authority
 
-Youtube demo: https://youtu.be/QAGceJHEAqs
+Youtube demo: https://www.youtube.com/watch?v=ZSu6OHwAAXY
 
  - Step 1<br>
 Clone repository or download ZIP file
