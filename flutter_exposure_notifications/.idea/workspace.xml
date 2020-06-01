@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6d42495-061c-4ff6-93c4-90a4db08accd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../beacon_broadcast" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/android/app/src/main/java/org/webpatient/eosio_exposure_notifications/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/assets/launcher/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Podfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-50x50@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-50x50@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-57x57@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-57x57@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-72x72@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-72x72@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/ios/Runner/Runner.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eosio_exposure_notifications/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/org/webpatient/flutter_exposure_notifications/FlutterExposureNotificationsPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_exposure_notifications.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FlutterExposureNotificationsPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FlutterExposureNotificationsPlugin.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/SwiftFlutterExposureNotificationsPlugin.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/flutter_exposure_notifications.podspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/database.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/database.g.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_exposure_notifications.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/uuid.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/uuid_dao.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/flutter_exposure_notifications_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flutter/plugins/flutter_exposure_notifications/lib/database.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flutter/plugins/flutter_exposure_notifications/lib/uuid.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flutter/plugins/flutter_exposure_notifications/lib/uuid_dao.dart" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1blnPQrSSIwtpakQRqJeAe08Q4U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6d42495-061c-4ff6-93c4-90a4db08accd" name="Default Changelist" comment="" />
+      <created>1589215522377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589215522377</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
