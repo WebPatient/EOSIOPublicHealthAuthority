@@ -1,5 +1,7 @@
 # EOSIO Public Health Authority
 
+My implementation of EOSIO smart contracts to apply blockchain technology to address the problems and/or expected societal changes related to the COVID-19 pandemic thru Exposure Notifications API. 
+
 Youtube demo #1: https://www.youtube.com/watch?v=ZSu6OHwAAXY
 <br>Youtube demo #2: https://youtu.be/jknyGfeAMXs
 <br>Youtube demo #3: https://youtu.be/eghtSy9Zt8c
