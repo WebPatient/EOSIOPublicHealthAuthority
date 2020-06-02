@@ -29,12 +29,14 @@ Wait for EOSIO Public Health Authority App<br>
 Then press on 'TURN ON EXPOSURE NOTIFICATIONS'
 
 - Step 6<br>
+If you think you have been exposed to COVID‑19 and develop a fever and symptoms, such as cough or difficulty breathing, call your healthcare provider for medical advice.
 When infected with COVID-19 press on 'NOTIFY OTHERS'
 
 - Step 7<br>
 An authorized healthcare provider with valid Owner and Active Private keys will complete the next screen and press 'submit'<br>
 
 - Step 8<br>
+You will be notified if you have been exposed to someone who reported a positive COVID-19 result.<br>
 
 
 # Inspiration for EOSIO Public Health Authority App
