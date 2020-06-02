@@ -9,6 +9,33 @@ Youtube demo #1: https://www.youtube.com/watch?v=ZSu6OHwAAXY (8:43 mins)
 <br>Youtube demo #3: https://youtu.be/jknyGfeAMXs (1:44 mins)
 
 
+# How to quick start using the app
+
+- Step 1<br>
+Clone repository or download ZIP file
+
+- Step 2<br>
+Open a terminal at eosio_exposure_notifications directory
+
+- Step 3<br>
+At the opened terminal type: flutter run<br>
+Then press enter
+
+- Step 4<br>
+Turn on the bluetooth on your mobile device
+
+- Step 5<br>
+Wait for EOSIO Public Health Authority App<br>
+Then press on 'TURN ON EXPOSURE NOTIFICATIONS'
+
+- Step 6<br>
+When infected with COVID-19 press on 'NOTIFY OTHERS'
+
+- Step 7<br>
+An authorized healthcare provider with valid Owner and Active Private keys 
+
+
+
 # Inspiration for EOSIO Public Health Authority App
 
 This software is inspired by the need of a solution for decentralized contact tracing by merging blockchain technology and Bluetooth technology on Android and iOS mobile devices.
@@ -35,20 +62,4 @@ Built with Flutter Mobile UI Framework for Android and iOS.
 Implement iOS UUIDs scanning native code
 
 
- - Step 1<br>
-Clone repository or download ZIP file
-
-- Step 2<br>
-Open a terminal at eosio_exposure_notifications directory
-
-- Step 3<br>
-type: flutter run
-
-- Step 4<br>
-Turn On Bluetooth
-
-- Step 5<br>
-Press on 'TURN ON EXPOSURE NOTIFICATIONS'
-
-- Step 6<br>
-When infected with COVID-19 press on 'NOTIFY OTHERS'
+ 
