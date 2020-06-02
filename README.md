@@ -32,8 +32,9 @@ Then press on 'TURN ON EXPOSURE NOTIFICATIONS'
 When infected with COVID-19 press on 'NOTIFY OTHERS'
 
 - Step 7<br>
-An authorized healthcare provider with valid Owner and Active Private keys 
+An authorized healthcare provider with valid Owner and Active Private keys will complete the next screen and press 'submit'<br>
 
+- Step 8<br>
 
 
 # Inspiration for EOSIO Public Health Authority App
@@ -59,7 +60,8 @@ Built with Flutter Mobile UI Framework for Android and iOS.
 
 # What's next for Covid19 Contact Tracing
 
-Implement iOS UUIDs scanning native code
+ - Implement iOS UUIDs scanning native code
+ - QR code scanning implementation 
 
 
  
